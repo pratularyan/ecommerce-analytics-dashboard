@@ -1,3 +1,10 @@
+# Add interactive Streamlit dashboard for e-commerce analytics
+
+# - Implemented dashboard layout with key metrics, visualizations, and filters
+# - Integrated data loading and preprocessing for sales and customer insights
+# - Enhanced user experience with responsive design and dynamic charts
+
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
